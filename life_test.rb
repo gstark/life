@@ -18,13 +18,12 @@ class LifeTest < MiniTest::Test
   ])
 
   def test_block
-    game = Life.new(BLOCK)
-    assert_equal BLOCK, game.tick
+    assert_equal BLOCK, Life.tick(BLOCK)
   end
 
   def test_blinker
-    game = Life.new(BLINKER_H)
-    assert_equal BLINKER_V, game.tick
-    assert_equal BLINKER_H, game.tick
+    game = Life.new
+    assert_equal BLINKER_V, Life.tick(BLINKER_H)
+    assert_equal BLINKER_H, Life.tick(BLINKER_V)
   end
 end
