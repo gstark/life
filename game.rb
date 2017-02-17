@@ -9,11 +9,10 @@ class Game < Gosu::Window
     super 640, 480
     self.caption = "Game of Lifes"
 
-    @state = Set.new([
-      [2,3], [3,3], [4,3]
-    ])
+    @prev_state = Set.new()
+    @state = Set.new()
 
-    @is_running = false
+    @is_running = true
     @space_down = false
     @elapsed = 0
   end
@@ -39,6 +38,7 @@ class Game < Gosu::Window
     end
 
     if Gosu.milliseconds - @elapsed >= FRAMERATE
+      @prev_state = @state.dup
       @state = Life.tick(@state) if @is_running
       @elapsed = Gosu.milliseconds
     end
@@ -47,6 +47,10 @@ class Game < Gosu::Window
   def draw
     bg = @is_running ? Gosu::Color::WHITE : Gosu::Color::GRAY
     Gosu.draw_rect(0, 0, 640, 480, bg)
+
+    @prev_state.each do |x, y|
+      Gosu.draw_rect(*world_to_screen(x, y), SCALE, SCALE, Gosu::Color::GRAY)
+    end
 
     @state.each do |x, y|
       Gosu.draw_rect(*world_to_screen(x, y), SCALE, SCALE, Gosu::Color::BLACK)
