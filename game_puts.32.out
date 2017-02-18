@@ -1,0 +1,576 @@
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 0
+
+7         
+6      X  
+5    X XX 
+4    X X  
+3    X    
+2  X      
+1X X      
++123456789
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 1
+
+         
+     XXX 
+    * XX 
+   XX XX 
+   X*X   
+ X*X     
+*X*      
+123456789
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 2
+
+         
+     X   
+    X*X  
+   X **X 
+  XX *X  
+  X XX   
+* *X     
+*X       
+234567890
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 3
+
+        
+    X   
+   XXX  
+ XXXXXX 
+ X* XX  
+ X XX   
+ XXX    
+*       
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 4
+
+         
+    XXX  
+    ***X 
+  X****X 
+ XX  **X 
+ XX **X  
+  X*XX   
+   X     
+234567890
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 5
+
+          
+     X    
+    *XX   
+     X X  
+ XX   XXX 
+ **X  XX  
+ **  XX   
+ XX XX    
+   XX     
+2345678901
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 6
+
+         
+    XX   
+   XX*   
+    X *X 
+*X  X**X 
+ X*  **X 
+ XX **X  
+*X **X   
+ XXXX    
+345678901
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 7
+
+           
+    XXX    
+    X*     
+     XX *  
+  *  * XXX 
+ XX    XX  
+ XXX   X   
+ X*  XX    
+  XXXX     
+234XX789012
+           
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 8
+
+            
+      X     
+     XX*    
+     X      
+      XXXX  
+        **X 
+  X*X  X**X 
+ X**X   XX  
+  X   XX    
+   X***X    
+123X**X89012
+            
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 9
+
+            
+     XX     
+     XX     
+     X  X   
+      XXXX  
+      X   X 
+  *X*  *X X 
+ XX *XX XX  
+  XX  XX    
+  XX   X    
+123*56*89012
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 10
+
+            
+     XX     
+    X**X    
+     X  XX  
+     XX*XX  
+      X   X 
+  X* XX X X 
+ X* XXX XX  
+  **XX**    
+  XX  XX    
+123456789012
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 11
+
+           
+    XX     
+   X  XX   
+   XX  *X  
+    XX X*X 
+     * X X 
+ * X** X X 
+* X*** XX  
+ X **  X   
+ *XXXX*    
+23456789012
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 12
+
+            
+    XXX     
+   X  XX    
+   X*   X   
+   XXXXX X  
+    X  X XX 
+   *  XX X  
+  X   XX*   
+ X  X XXX   
+  XXX*      
+234XX7890123
+            
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 13
+
+            
+     X      
+    XXXX    
+   X  XX    
+  XX    X   
+   X*XXX XX 
+   XX  * XX 
+     X** XX 
+  *   **    
+ X  X X*X   
+  X**  X    
+23X*X7890123
+            
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 14
+
+             
+    XX       
+    X**X     
+  XX  **X    
+  XX X  XX   
+   * XXX *X  
+   X*    **X 
+    X*   XX  
+     X   X   
+ *  * *X*    
+ XX  X X     
+23*X*78901234
+             
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 15
+
+            
+   XX       
+   XX *     
+ X*   XXX   
+ XX X  XX   
+ XX XXXXXX  
+  *XXX  X X 
+   X    XX  
+    *  XXX  
+      *X    
+*X  *X*     
+3X*678901234
+            
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 16
+
+             
+    XX       
+   XXXX X    
+  X  XXX*X   
+ X** X  **   
+  X* ******  
+    ***  * X 
+    X    **X 
+        X*X  
+       XX    
+  *   *      
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 17
+
+             
+   X**X      
+   X*** X    
+  XX **XX*   
+ XX  X       
+  *          
+           * 
+    *     XX 
+       XXX*  
+       XXX   
+             
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 18
+
+   *  *     
+   XX   X   
+ X*XX  XX   
+ XXX *      
+            
+            
+        XXX*
+       X**  
+       X*X  
+        X   
+234567890123
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 19
+
+            
+  XXX  XX   
+ X **  XX   
+ X*XX       
+  X         
+         X  
+        XX* 
+       X  X 
+       X *  
+        X   
+234567890123
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 20
+
+            
+   X        
+  XX*  XX   
+ X     XX   
+ X X*       
+  XX        
+        XX  
+        XXX 
+       X X* 
+       XX   
+        *   
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 21
+
+            
+  XX        
+  XX   XX   
+ X X   XX   
+ X X        
+  XX        
+        X*X 
+       X**X 
+       X *X 
+       XX   
+            
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 22
+
+             
+  XX         
+ X**X  XX    
+ X XX  XX    
+ X XX        
+  XX         
+        *X*  
+       XX XX 
+      XX X*  
+       XX    
+             
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 23
+
+             
+   XX        
+  X  X  XX   
+ XX **X XX   
+  X **       
+   XXX       
+         XXX 
+       XX* X*
+       X* XX 
+       XXX   
+             
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 24
+
+              
+   XX         
+ XX XX XXX    
+ XXX  *XXX    
+ XX XX        
+   XX*    X   
+    X   XXXX  
+       XX  *X 
+      X*  XX  
+       XXXX   
+        X     
+12345678901234
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 25
+
+1              
+0  XXXX  X     
+9 X* *XXX*X    
+8X***   X*X    
+7 X* *X  XX    
+6  X**     XX  
+5   XX  XX*XX  
+4       XX   X 
+3      X   XX  
+2       XX*XX  
+1       XX     
++12345678901234
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 26
+
+2              
+1   XX         
+0  XXXX XX     
+9 XXX X*X X    
+8XX   X X XX   
+7 X   *  XX    
+6  XXX  X  *X  
+5   X*  XX X*X 
+4      X*X   X 
+3      X   X*X 
+2      X*X XX  
+1       XXX    
++12345678901234
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 27
+
+2               
+1  X**X         
+0 X***X XX      
+9X*** X X XX    
+8X*  X* X *X    
+7XX XX XX*X     
+6  XXX  X  XX   
+5  XXX X*XX* X  
+4      X X   XX 
+3     XX   X X  
+2      X X XX   
+1       XXXX    
++12345678X012345
+9               
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 28
+
+ 2               
+ 1  *  *X        
+ 0 X  XX XXX     
+ 9XX  XX X XX    
+ XX  XX  X  X    
+ 7XX ** XX X X   
+ 6  ***  *  XX   
+ 5  X*X X XXX XX 
+ 4   XX X X   XX 
+ 3     XX   X XX 
+ 2     XX X **   
+ 1       ***XX   
+9+1234567XX012345
+ 9               
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 29
+
+ 2                
+ 1     XXXX       
+ 0XX  X* X*XX     
+ X*XX ** X *X     
+ X* XXX  X  *X    
+ XXX    XXXX X    
+ 6 X   XX   **    
+ 5  * X * X*X *X  
+ 4   XX X X X **X 
+ 3     **  X*XXX  
+ 2     XXX*XX X   
+ 1      X XX**    
+9+1234567**0123456
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 30
+
+  3                
+  2      XX        
+  1     XXXXX      
+  0XXX *X * XX     
+  X ** X XX XXX    
+ XX  *X*  * X X    
+  X*X XX **X*X*    
+  6 X   XX   X     
+  5   XX X * *  *  
+  4   XXX*XX X   X 
+  3    X    * *XX  
+  2     XXX ** XX  
+  1     XX XXX     
+89+1234567890123456
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 31
+
+  3                
+  2     X**        
+  1 X   X***XX     
+  0XX* X*   **X    
+ XX XXXXXX* **X    
+ XX  XX X X * X    
+ XX * XXX  * XX    
+  6X*   *XX X*     
+  5  XX* *  X      
+  4   ***XX* *  X* 
+  3   X*   X  XX*X 
+  2    X**XXX XXX  
+  1     X* XX*     
+89+123456789X123456
+  9                
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+tick: 32
+
+   2     *          
+   1XX  XX   *X     
+   X**  * X    X    
+  X* *****X   XXX   
+ X** X** * *   XX   
+  X*X XX*X XX XX    
+   X* X  XX*XX      
+   5  **     *      
+   4  XX  *XX   XX  
+   3   *  X *XXX* X 
+   2    X  X** X*X  
+   1     * X**  X   
+789+12345678XX123456
+   9                
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
