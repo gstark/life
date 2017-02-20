@@ -3,18 +3,18 @@ require_relative 'life'
 
 class LifeTest < MiniTest::Test
   BLOCK = Set.new([
-    [1,1],[1,2],
-    [2,1],[2,2]
+    Cell.new(1,1), Cell.new(1,2),
+    Cell.new(2,1), Cell.new(2,2),
   ])
 
   BLINKER_H = Set.new([
-    [2,3], [3,3], [4,3]
+    Cell.new(2,3), Cell.new(3,3), Cell.new(4,3)
   ])
 
   BLINKER_V = Set.new([
-    [3,2],
-    [3,3],
-    [3,4]
+    Cell.new(3,2),
+    Cell.new(3,3),
+    Cell.new(3,4)
   ])
 
   def test_block

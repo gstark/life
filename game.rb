@@ -7,7 +7,7 @@ class Game < Gosu::Window
 
   def initialize
     super 640, 480
-    self.caption = "Game of Lifes"
+    self.caption = "Game of Life"
 
     @prev_state = Set.new()
     @state = Set.new()
@@ -34,7 +34,8 @@ class Game < Gosu::Window
     end
 
     if Gosu.button_down? Gosu::MS_LEFT
-      @state << screen_to_world(mouse_x, mouse_y)
+      x,y = screen_to_world(mouse_x, mouse_y)
+      @state << Cell.new(x,y)
     end
 
     if Gosu.milliseconds - @elapsed >= FRAMERATE
@@ -48,12 +49,12 @@ class Game < Gosu::Window
     bg = @is_running ? Gosu::Color::WHITE : Gosu::Color::GRAY
     Gosu.draw_rect(0, 0, 640, 480, bg)
 
-    @prev_state.each do |x, y|
-      Gosu.draw_rect(*world_to_screen(x, y), SCALE, SCALE, Gosu::Color::GRAY)
+    @prev_state.each do |cell|
+      Gosu.draw_rect(*world_to_screen(cell.x, cell.y), SCALE, SCALE, Gosu::Color::GRAY)
     end
 
-    @state.each do |x, y|
-      Gosu.draw_rect(*world_to_screen(x, y), SCALE, SCALE, Gosu::Color::BLACK)
+    @state.each do |cell|
+      Gosu.draw_rect(*world_to_screen(cell.x, cell.y), SCALE, SCALE, Gosu::Color::BLACK)
     end
 
     Gosu.draw_rect(*world_to_screen(*screen_to_world(mouse_x, mouse_y)), SCALE, SCALE, Gosu::Color::RED)
